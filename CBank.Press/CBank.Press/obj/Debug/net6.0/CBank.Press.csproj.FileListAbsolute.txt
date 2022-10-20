@@ -1,0 +1,15 @@
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\bin\Debug\net6.0\CBank.Press.exe
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\bin\Debug\net6.0\CBank.Press.deps.json
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\bin\Debug\net6.0\CBank.Press.runtimeconfig.json
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\bin\Debug\net6.0\CBank.Press.dll
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\bin\Debug\net6.0\CBank.Press.pdb
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\obj\Debug\net6.0\CBank.Press.csproj.AssemblyReference.cache
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\obj\Debug\net6.0\CBank.Press.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\obj\Debug\net6.0\CBank.Press.AssemblyInfoInputs.cache
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\obj\Debug\net6.0\CBank.Press.AssemblyInfo.cs
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\obj\Debug\net6.0\CBank.Press.csproj.CoreCompileInputs.cache
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\obj\Debug\net6.0\CBank.Press.dll
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\obj\Debug\net6.0\refint\CBank.Press.dll
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\obj\Debug\net6.0\CBank.Press.pdb
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\obj\Debug\net6.0\CBank.Press.genruntimeconfig.cache
+C:\Repository\CBank_prj_IL600\CBank.Press\CBank.Press\obj\Debug\net6.0\ref\CBank.Press.dll
