@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Paata\\.nuget\\packages\\": {},
+    "C:\\Users\\glasspaper\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repository\\CBank_prj_IL600\\CBank.Press\\CBank.Press\\CBank.Press.csproj",
+      "projectUniqueName": "C:\\Repository\\C#.net\\CBank_prj_IL600\\CBank.Press\\CBank.Press\\CBank.Press.csproj",
       "projectName": "CBank.Press",
-      "projectPath": "C:\\Repository\\CBank_prj_IL600\\CBank.Press\\CBank.Press\\CBank.Press.csproj",
-      "packagesPath": "C:\\Users\\Paata\\.nuget\\packages\\",
-      "outputPath": "C:\\Repository\\CBank_prj_IL600\\CBank.Press\\CBank.Press\\obj\\",
+      "projectPath": "C:\\Repository\\C#.net\\CBank_prj_IL600\\CBank.Press\\CBank.Press\\CBank.Press.csproj",
+      "packagesPath": "C:\\Users\\glasspaper\\.nuget\\packages\\",
+      "outputPath": "C:\\Repository\\C#.net\\CBank_prj_IL600\\CBank.Press\\CBank.Press\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Paata\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\glasspaper\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
