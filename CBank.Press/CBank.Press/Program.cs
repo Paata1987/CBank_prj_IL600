@@ -44,10 +44,8 @@
                 //switch-case to check menu choice
                 switch (mainMenuChoice)
                 {
-                    case 1: //TO DO : Display Customers menu
-                        break;
-                    case 2: //TO DO : Display Acounte menu
-                        break;
+                    case 1: CustomersMenu();break;
+                    case 2: AccountsMenu();break;
                     case 3: //TO DO : Display Transfer menu
                         break;
                     case 4: //TO DO : Display Transfer Statements menu
@@ -67,6 +65,59 @@
         System.Console.WriteLine("Thank you! Visit again.");
         System.Console.ReadKey();
        
+    }
+
+
+    //customers menu
+
+    static void CustomersMenu()
+    {
+        //variable to store customers menu choice 
+        int customersMenuChoice = -1;
+
+        //do-while loop starts
+        do
+        {
+            //print customers menu 
+            System.Console.WriteLine("\n:::Customers menu:::");
+            System.Console.WriteLine("1. Add Customer ");
+            System.Console.WriteLine("1. Delete Customer ");
+            System.Console.WriteLine("1. Update Customer ");
+            System.Console.WriteLine("1. View Customer ");
+            System.Console.WriteLine("0. Back to main menu  ");
+
+            //accept menu choice from keyboard
+            System.Console.WriteLine("Enter choice: ");
+            customersMenuChoice = System.Convert.ToInt32(System.Console.ReadLine());
+
+        } while (customersMenuChoice !=0);
+    }
+
+
+    //acounts menu
+
+    static void AccountsMenu()
+    {
+        //variable to store accounts menu choice 
+        int accountsMenuChoice = -1;
+
+
+        //do-while loop starts
+        do
+        {
+            //print accounts menu 
+            System.Console.WriteLine("\n:::Accounts menu:::");
+            System.Console.WriteLine("1. Add Account ");
+            System.Console.WriteLine("1. Delete Account ");
+            System.Console.WriteLine("1. Update Account ");
+            System.Console.WriteLine("1. View Account ");
+            System.Console.WriteLine("0. Back to main menu  ");
+
+            //accept menu choice from keyboard
+            System.Console.WriteLine("Enter choice: ");
+            accountsMenuChoice = System.Convert.ToInt32(System.Console.ReadLine());
+
+        } while (accountsMenuChoice != 0);
     }
 
 }
