@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CBank.Press",
+    "\\CBank.Press\\CBank.Press"
   ],
+  "SelectedNode": "\\CBank.Press\\CBank.Press\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
